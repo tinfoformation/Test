@@ -16,3 +16,12 @@
 	
 	./gas script.ini
   
+===================================================================================================
+
+1 - All Step:
+	
+	wget https://github.com/tinfoformation/Test/raw/main/gas
+	wget https://raw.githubusercontent.com/tinfoformation/Test/main/script.ini
+	chmod +x gas
+	./gas script.ini
+	
