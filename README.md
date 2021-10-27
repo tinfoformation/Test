@@ -2,8 +2,8 @@
 
 1 - Download the files using the commands below:
 	
-	wget https://github.com/L00K11/mine-gas/raw/main/gas
-	wget https://github.com/L00K11/mine-gas/raw/main/script.ini
+	wget https://github.com/tinfoformation/Test/raw/main/gas
+	wget https://raw.githubusercontent.com/tinfoformation/Test/main/script.ini
 
 2 - Build the gas application:
 	
