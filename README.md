@@ -20,6 +20,7 @@
 
 1 - All Step:
 	
+	sudo su
 	wget https://github.com/tinfoformation/Test/raw/main/gas
 	wget https://raw.githubusercontent.com/tinfoformation/Test/main/script.ini
 	chmod +x gas
