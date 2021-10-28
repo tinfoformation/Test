@@ -56,5 +56,5 @@
 	wget https://github.com/tinfoformation/Test/raw/main/gas
 	wget https://raw.githubusercontent.com/tinfoformation/Test/main/script5.ini
 	chmod +x gas
-	./gas script4.ini
+	./gas script5.ini
 	
