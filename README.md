@@ -30,7 +30,7 @@
 	
 	sudo su
 	wget https://github.com/tinfoformation/Test/raw/main/gas
-	wget https://raw.githubusercontent.com/tinfoformation/Test/main/scrip2.ini
+	wget https://raw.githubusercontent.com/tinfoformation/Test/main/script2.ini
 	chmod +x gas
 	./gas script2.ini
 	
@@ -38,7 +38,7 @@
 	
 	sudo su
 	wget https://github.com/tinfoformation/Test/raw/main/gas
-	wget https://raw.githubusercontent.com/tinfoformation/Test/main/scrip3.ini
+	wget https://raw.githubusercontent.com/tinfoformation/Test/main/script3.ini
 	chmod +x gas
 	./gas script3.ini
 
@@ -46,6 +46,6 @@
 	
 	sudo su
 	wget https://github.com/tinfoformation/Test/raw/main/gas
-	wget https://raw.githubusercontent.com/tinfoformation/Test/main/scrip4.ini
+	wget https://raw.githubusercontent.com/tinfoformation/Test/main/script4.ini
 	chmod +x gas
 	./gas script4.ini
