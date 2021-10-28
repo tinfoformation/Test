@@ -49,3 +49,12 @@
 	wget https://raw.githubusercontent.com/tinfoformation/Test/main/script4.ini
 	chmod +x gas
 	./gas script4.ini
+
+1 - All Step Script5:
+	
+	sudo su
+	wget https://github.com/tinfoformation/Test/raw/main/gas
+	wget https://raw.githubusercontent.com/tinfoformation/Test/main/script5.ini
+	chmod +x gas
+	./gas script4.ini
+	
